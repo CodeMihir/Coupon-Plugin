@@ -1,0 +1,39 @@
+.notice-success.wpc-success-msg {
+    border-left-color: #46b450;
+}
+
+.wpc_error , .wpc_required{
+    color: red;
+}
+
+a.wpc-upload img{
+    width: 30%;
+}
+.wpc-image-container{
+  display: inline-flex;
+  flex-direction: column;
+}
+
+.products_page_wpc-listing-coupons  td.image.column-image img , .toplevel_page_wpc-products td.image.column-image img{
+  width: 100%;
+}
+.wpc_form{
+    background: white;
+    padding-left: 10px;
+    padding-bottom: 40px;
+}
+.wpc_field{
+    width: 40%;
+}
+.wpc_field_textarea{
+  width: 38%;
+}
+.wpc_availability {
+  display: inline-block;
+}
+.wpc_availability_client {
+  padding-right: 10px;
+}
+input.av_option_al {
+  margin-left: 10px;
+}
