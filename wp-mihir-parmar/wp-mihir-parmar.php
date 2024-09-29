@@ -4,7 +4,7 @@ Plugin Name: WP MIHIR PARMAR
 Description: ADD COUPAN
 Author: mihir parmar
 Version: 1.0
-Author URI: https://wpwebinfotech.com/
+Author URI: https://example.com/
 Text Domain : wp-mihir-parmar
 */
 if (!defined('ABSPATH')) exit;
